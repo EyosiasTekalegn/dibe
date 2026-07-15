@@ -1,0 +1,11 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .text-d { font-family: 'Arial', sans-serif; font-weight: 900; font-size: 140px; fill: #C8102E; }
+      .text-e { font-family: 'Arial', sans-serif; font-weight: 900; font-size: 140px; fill: #ffffff; filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.3)); }
+    </style>
+  </defs>
+  <text x="100" y="150" text-anchor="middle" letter-spacing="-5">
+    <tspan class="text-d">D</tspan><tspan class="text-e">E</tspan>
+  </text>
+</svg>

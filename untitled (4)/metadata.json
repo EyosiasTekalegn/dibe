@@ -1,0 +1,6 @@
+{
+  "name": "Dibe Engineering (DE)",
+  "description": "Premium custom steelworks, metal fabrication, architectural aluminum architectures, and advanced electromechanical engineering solutions by DE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
